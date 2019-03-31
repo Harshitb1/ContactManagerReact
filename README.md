@@ -8,4 +8,8 @@ In the future we plan to integrate it into Create React App even more closely.
 
 To learn more about Flow, check out [its documentation](https://flowtype.org/).
 
+Install npm modules using command - npm install
+
+TO run the app use command - npm run start
+
 
